@@ -53,7 +53,7 @@
 ## Lead
 - Centre guard or draw top 4.  
 - If they draw deep → freeze.  
-- If they play to the wings → centre guard.
+- If they play to the wings → mid guard, block their path to a side draw
 
 ## Second
 - Remove their corner guards.  
