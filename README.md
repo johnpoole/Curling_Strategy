@@ -1,12 +1,25 @@
 First end(s): figure out the ice, try for as many draws as possible, unless we need a hit or guard for some reason.
 
-With hammer: draw to the sides(8 foot width), clear their rocks from the middle. Ideal is an open draw for the last rock, or a hit to remove theirs from the center.
-In particular, the lead draws to whichever side they prefer. If they're short and throw a guard, draw behind it next shot. If the draw is good throw the guard.(i.e. "The Box")
+Middle end(s)
+With hammer: 
+Lead -> draw to the sides(8 foot width), clear their rocks from the middle. Ideal is an open draw for the last rock, or a hit to remove theirs from the center.
+In particular, the lead draws to whichever side they prefer. If the lead throws short and it ends up a guard, draw behind it next shot. If the draw is good throw the guard.(i.e. "The Box")
 Avoid drawing to start because it allows them to follow our draw and make it hard to score.
 
-I there's a centre guard, the second removes it.
+*If the opponent lead can't draw, then just draw behind the guard.
 
-* If they throw a draw past the t-line that gives us backing, try to draw onto their rock
+Second-> If we've throw to the outside and there's a centre guard & and the have a stone behind it, the second peels the guard.
+If there's an unguarded rock, board weight hit. Hope for the roll.
+If there's a guard and we already have a rock on the side, draw behind the guard if there's backing or nothing.
+
+Third-> Peel guards that help them, remove rocks that help them. Guard rocks that help us, draw to backing. In general, use their mistakes or clear their successes.
+
+Skip-> Pad points, or try to save a bad end. First stone should be to prep for the last stone.
+
+Without hammer:
+
+
+* In general, if they throw a draw past the t-line that gives us backing, try to draw onto their rock
 
 Without: draws to the center, top of the 4 foot ideally
 
