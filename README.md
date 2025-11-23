@@ -1,6 +1,10 @@
 First end(s): figure out the ice, try for as many draws as possible, unless we need a hit or guard for some reason.
 
 With hammer: draw to the sides(8 foot width), clear their rocks from the middle. Ideal is an open draw for the last rock, or a hit to remove theirs from the center.
+In particular, the lead draws to whichever side they prefer. If they're short and throw a guard, draw behind it next shot. If the draw is good throw the guard.(i.e. "The Box")
+Avoid drawing to start because it allows them to follow our draw and make it hard to score.
+
+I there's a centre guard, the second removes it.
 
 * If they throw a draw past the t-line that gives us backing, try to draw onto their rock
 
