@@ -1,81 +1,108 @@
-# Curling Team Strategy
+# Curling Strategy
 
-## 1. First Ends
-- Primary goal is to read the ice.
-- Throw as many draws as possible unless a hit or guard is required.
+# 1. First Ends (Ice Discovery)
 
----
-
-## 2. Middle Ends
-
-### With Hammer
-
-#### Lead
-- Draw to the sides (8-foot width).
-- Keep the centre clean by removing their stones from the middle.
-- Goal: open draw for the final stone, or a simple centre removal.
-
-**Side preference logic:**
-- Lead draws to the preferred side.
-- If the draw is short and becomes a guard → come around it next shot.
-- If the draw is good → throw a guard on that same side (“The Box”).
-
-**Avoid:**
-- Starting with a centre draw; it encourages them to follow and reduces scoring potential.
-
-**Exception:**
-- If the opponent’s lead cannot draw, draw behind the guard.
-
-#### Second
-- If we’ve gone outside and the opponent has a centre guard with a buried stone → peel the guard.
-- If there is an unguarded stone → board-weight hit, look for a roll.
-- If there is a guard and we already have a side stone → draw around the guard (with or without backing).
-
-#### Third
-- Remove guards that help the opponent.
-- Remove stones that help the opponent.
-- Guard stones that help us.
-- Draw to backing whenever available.
-- General rule: use their mistakes and clear their successes.
-
-#### Skip
-- Add points when the end is good.
-- Control damage when the end is bad.
-- First skip stone should prepare for the final shot.
+- Learn draw weight on both sides.  
+- Learn curl on both turns.  
+- Test board/hack weight when needed.  
+- Prefer draws. Aim for top 4 or top 8.
 
 ---
 
-### Without Hammer
+# 2. Middle Ends – With Hammer
 
-#### General
-- If they draw past the T-line and give us backing, draw onto their stone.
+## Lead
+- Draw to the side 8-foot on the preferred side.  
+- Target depth: top 8.
 
-#### Lead
-- Draw to the centre.
-- Ideal placement: top of the 4-foot.
+### Follow-up (“The Box”)
+- If the first draw is short → draw around it.  
+- If the first draw is good → guard it.  
+- Avoid starting in the centre.
 
----
-
-## 3. Universal Principles (Either Situation)
-
-- Prefer draws with backing; avoid giving them backing.
-- Better to be top of the house than deep or past the T-line.
-- If the choice is a perfect “thin piece” result vs. removing a guard → remove the guard.
+### Exception
+- If the opponent’s lead cannot draw → draw top 4.
 
 ---
 
-## 4. Scoreboard Adjustments
-
-- Up after 3 → no guards.
-- Down → throw guards.
-- Up after 5 → draw to the top of the house and remove their stones. Focus on limiting their scoring chances rather than increasing ours.
+## Second
+- If opponent has a centre guard with a stone behind it → peel the guard.  
+- If they leave an open stone → board-weight hit, hope for a roll.  
+- If there is a guard and we already have a side stone → draw around the guard (with or without backing).  
+- If the corner setup is lost and they control the centre → switch to clearing and blanking.
 
 ---
 
-## 5. Execution Discipline
+## Third
+- Remove guards that help them.  
+- Remove stones that help them.  
+- Guard stones that help us.  
+- Draw to backing when available.  
+- If they have two buried and we have no angles → switch to damage control.
 
-- Plan for misses. After a long miss, aim slightly short next shot; after a short miss, aim slightly long.
-- Everyone plans one shot ahead. If the skip calls something unexpected, say so.
-- Time the ice to determine fast/slow areas.
-- Watch their broom placements and draw paths; follow their lines.
-- If their stone helps us, leave it. If it hurts us and is fully visible, hit it.
+---
+
+## Skip
+- First stone sets up the last shot: guard a good stone, draw behind cover, or clear trouble.  
+- Last stone: take the simplest available scoring option (open draw, open hit, or blank).
+
+---
+
+# 3. Middle Ends – Without Hammer
+
+## Lead
+- Centre guard or draw top 4.  
+- If they draw deep → freeze.  
+- If they play to the wings → centre guard.
+
+## Second
+- Remove their corner guards.  
+- If they come around a corner and we cannot remove → freeze or tap.  
+- Add a centre guard if the centre is developing in our favour.
+
+## Third
+- Keep the centre contested.  
+- Remove any stone that gives them an easy score of two.  
+- If they bail, remove guards and keep the 4-foot clear.
+
+## Skip
+- Guard to maintain a force.  
+- Freeze if they have shot and we need to take it away.  
+- Hit anything that gives them an angle for two.
+
+---
+
+# 4. General Principles
+
+- Top is good; deep is bad.  
+- Use backing when available; avoid giving backing.  
+- Remove guards instead of attempting thin or perfect shots.  
+- Guard height: tight for protection, mid for setup, high for control.  
+- Adjust after misses (long → shorter next shot; short → longer next shot).  
+- Everyone thinks one shot ahead; question unexpected calls.  
+- Time the ice.  
+- Follow the opponent’s lines.  
+- Leave opponent stones that help us; remove ones that hurt us and are fully visible.
+
+---
+
+# 5. Scoreboard Guidelines
+
+- Up after 3 → no guards.  
+- Down → throw guards.  
+- Up after 5 → draw top of the house and remove their stones.  
+- Focus on preventing the score they need, not increasing ours.
+
+---
+
+# 6. Bailout Conditions
+
+Switch to clearing/blanking when:  
+- They are buried twice and we have no angles.  
+- Corner plan is gone and they control the centre.  
+- Multiple misses break the planned setup.
+
+Switch back to building when:  
+- They leave a stone open.  
+- We gain backing.  
+- Their guard protects a weakly buried rock.
