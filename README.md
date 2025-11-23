@@ -1,43 +1,81 @@
-First end(s): figure out the ice, try for as many draws as possible, unless we need a hit or guard for some reason.
+# Curling Team Strategy
 
-Middle end(s)
-With hammer: 
-Lead -> draw to the sides(8 foot width), clear their rocks from the middle. Ideal is an open draw for the last rock, or a hit to remove theirs from the center.
-In particular, the lead draws to whichever side they prefer. If the lead throws short and it ends up a guard, draw behind it next shot. If the draw is good throw the guard.(i.e. "The Box")
-Avoid drawing to start because it allows them to follow our draw and make it hard to score.
+## 1. First Ends
+- Primary goal is to read the ice.
+- Throw as many draws as possible unless a hit or guard is required.
 
-*If the opponent lead can't draw, then just draw behind the guard.
+---
 
-Second-> If we've throw to the outside and there's a centre guard & and the have a stone behind it, the second peels the guard.
-If there's an unguarded rock, board weight hit. Hope for the roll.
-If there's a guard and we already have a rock on the side, draw behind the guard if there's backing or nothing.
+## 2. Middle Ends
 
-Third-> Peel guards that help them, remove rocks that help them. Guard rocks that help us, draw to backing. In general, use their mistakes or clear their successes.
+### With Hammer
 
-Skip-> Pad points, or try to save a bad end. First stone should be to prep for the last stone.
+#### Lead
+- Draw to the sides (8-foot width).
+- Keep the centre clean by removing their stones from the middle.
+- Goal: open draw for the final stone, or a simple centre removal.
 
-Without hammer:
+**Side preference logic:**
+- Lead draws to the preferred side.
+- If the draw is short and becomes a guard → come around it next shot.
+- If the draw is good → throw a guard on that same side (“The Box”).
 
+**Avoid:**
+- Starting with a centre draw; it encourages them to follow and reduces scoring potential.
 
-* In general, if they throw a draw past the t-line that gives us backing, try to draw onto their rock
+**Exception:**
+- If the opponent’s lead cannot draw, draw behind the guard.
 
-Without: draws to the center, top of the 4 foot ideally
+#### Second
+- If we’ve gone outside and the opponent has a centre guard with a buried stone → peel the guard.
+- If there is an unguarded stone → board-weight hit, look for a roll.
+- If there is a guard and we already have a side stone → draw around the guard (with or without backing).
 
-Either: 
-- prefer draws with backing, avoid giving them backing.
-- better to be top of the house on draws than past the t-line.
-- anytime we consider a "perfect" draw or hit for a piece of a rock, remove the guard instead
+#### Third
+- Remove guards that help the opponent.
+- Remove stones that help the opponent.
+- Guard stones that help us.
+- Draw to backing whenever available.
+- General rule: use their mistakes and clear their successes.
 
-If we're up after 3, no guards.
-If we're down, guards.
+#### Skip
+- Add points when the end is good.
+- Control damage when the end is bad.
+- First skip stone should prepare for the final shot.
 
-Up after 5: draw to the top of the house and remove their rocks. Focus on making the score they need impossible.(As opposed to trying to win the end)
+---
 
-Plan for misses. Throw too short after throwing long and vice versa.
+### Without Hammer
 
-All of us plan the next shot, if I make a shot call you don't expect, point it out.
+#### General
+- If they draw past the T-line and give us backing, draw onto their stone.
 
-Time the ice with a watch to see if it's fast/slow.
+#### Lead
+- Draw to the centre.
+- Ideal placement: top of the 4-foot.
 
-Watch the broom placement/draw paths they use and follow their rocks.
-if a rock of theirs helps us, we leave it. If it hurts us(and we can see all of it) we hit it.
+---
+
+## 3. Universal Principles (Either Situation)
+
+- Prefer draws with backing; avoid giving them backing.
+- Better to be top of the house than deep or past the T-line.
+- If the choice is a perfect “thin piece” result vs. removing a guard → remove the guard.
+
+---
+
+## 4. Scoreboard Adjustments
+
+- Up after 3 → no guards.
+- Down → throw guards.
+- Up after 5 → draw to the top of the house and remove their stones. Focus on limiting their scoring chances rather than increasing ours.
+
+---
+
+## 5. Execution Discipline
+
+- Plan for misses. After a long miss, aim slightly short next shot; after a short miss, aim slightly long.
+- Everyone plans one shot ahead. If the skip calls something unexpected, say so.
+- Time the ice to determine fast/slow areas.
+- Watch their broom placements and draw paths; follow their lines.
+- If their stone helps us, leave it. If it hurts us and is fully visible, hit it.
